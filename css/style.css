@@ -1,0 +1,22 @@
+body {background-color: lightgrey;}
+
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 2%;
+}
+
+.imagenes {
+    display: block;
+}
+
+.imagenes > label{
+    display: block;
+    text-align: center;
+
+}
+
+.imagenes > img{
+    display: block;
+    
+}
